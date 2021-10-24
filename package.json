@@ -1,7 +1,7 @@
 {
   "name": "cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "list: https://monosnap.com/file/vjiT94kvh1cLrnLq2ZscegwxDzaQoh",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,12 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
-    "clack": "^0.1.0",
-    "comander": "0.0.1-security",
-    "commander": "^8.2.0",
-    "fs": "0.0.1-security",
-    "nodemon": "^2.0.14",
-    "path": "^0.12.7",
-    "shortid": "^2.2.16"
+    "commander": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
   }
 }
